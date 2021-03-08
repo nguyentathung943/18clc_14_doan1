@@ -262,7 +262,6 @@
                 android:textColor="@color/black">
             </TextView>
         </RelativeLayout>
-
     </LinearLayout>
 
     </ScrollView>
